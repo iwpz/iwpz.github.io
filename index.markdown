@@ -4,11 +4,3 @@
 
 layout: home
 ---
-
-# Friends
-
-<ul>
-  <li><a href="https://sszsj.cc">csfwff</a></li>
-  <li><a href="https://hancel.org/">imlinhanchao Aka 跳跳</a></li>
-  <li><a href="https://stackoverflow.wiki/">adlered</a></li>
-</ul>
