@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome"
+date:   2023-11-22 15:08:15 +0800
+categories: welcome others
+---
+Here's iwpz's blog.
+
+Welcome, though I don't know why you are here.
+
+But anyway, welcome.
